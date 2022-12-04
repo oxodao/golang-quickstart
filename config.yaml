@@ -1,0 +1,5 @@
+web:
+  listening_addr: 0.0.0.0:9234
+
+database:
+  path: './0_DATA/quickstart.db'
